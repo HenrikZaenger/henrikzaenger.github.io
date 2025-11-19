@@ -16,6 +16,7 @@
         document.cookie = `selectedOption=${selectedOption}; path=/; max-age=${60*60*24*365}`;
     }
 
+    export const prerender = true
 </script>
 
 <div id="center">

@@ -7,6 +7,7 @@
             description: "Tools for converting numbers"
         }
     ]
+    export const prerender = true
 </script>
 
 <div id="grid">
